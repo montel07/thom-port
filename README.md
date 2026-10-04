@@ -6,7 +6,7 @@ Well, here we have a website i built to highlight projects, display some of my c
 
 Side note: This took me more time to enact than I am willing to admit. That's because I was still very new to coding and needed to learn all three languages in order to put one of these up. Got some professional help off YT. Shoutout to every single creator who helped throughout my journey. Still at beginner's level when it comes to using these languages, but I'm pretty sure I'll blow your mind once you test this.  
 
-[View Live Site](https://thomas-port.vercel.app)
+[View Live Site](https://thom-port.vercel.app)
 
 
 
